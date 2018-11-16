@@ -1,0 +1,1 @@
+web: python virtual_bot.py
